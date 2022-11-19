@@ -9,6 +9,7 @@
   "author": "Artichoke",
   "license": "ISC",
   "dependencies": {
-    "node-console-colors": "^1.1.4"
+    "node-console-colors": "^1.1.4",
+    "winston": "^3.8.2"
   }
 }
