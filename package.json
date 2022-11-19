@@ -1,6 +1,6 @@
 {
   "name": "artichokes-logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "logger for wws-bot",
   "main": "src/index.js",
   "scripts": {
